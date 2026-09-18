@@ -1,4 +1,4 @@
-# 🎮 Personalized Feed Recommendation System
+# Personalized Feed Recommendation System
 
 An end-to-end machine learning project that uses **player telemetry data** to predict player churn, estimate engagement potential, and generate personalized player-level recommendations.
 
@@ -6,7 +6,7 @@ The project uses a **Random Forest Classifier** to predict whether a player is l
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project is to demonstrate how player behavioral and financial telemetry can be transformed into actionable personalization signals.
 
